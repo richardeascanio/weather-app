@@ -4,6 +4,4 @@ Modern concepts of JS used in this project, including uses of object orientated 
 
 For the weather used a OpenWeatherMap API (openweathermap.org)
 
-Usamos node.js, webpack para el frontend, bootstrap 4 y el local storage del navegador
-
 to run app: npm run dev

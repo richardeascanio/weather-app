@@ -1,0 +1,13 @@
+body{
+    background: #8360c3;
+    background: -webkit-linear-gradient(t0 right, #2ebf91, #8360c3);
+    background: linear-gradient(to right, #2ebf91, #8360c3)
+}
+
+#country-code{
+    margin-top: 5px;
+}
+
+#w-change-btn{
+    margin-top: 5px;
+}
